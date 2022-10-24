@@ -1,7 +1,7 @@
 { "id": "Chords",
   "name": "Chords",
   "shortName":"Chords",
-  "version":"0.01",
+  "version":"0.02",
   "description": "Chords on your Watch",
   "icon": "app.png",
   "tags": "",
