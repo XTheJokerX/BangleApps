@@ -1,0 +1,14 @@
+{ "id": "Chords",
+  "name": "Chords",
+  "shortName":"Chords",
+  "version":"0.01",
+  "description": "Chords on your Watch",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"app.js","url":"app.js"},
+    {"name":"app.img","url":"app-icon.js","evaluate":true}
+  ]
+}
