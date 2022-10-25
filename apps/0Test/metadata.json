@@ -1,0 +1,12 @@
+{ "id": "Teast",
+  "name": "Test",
+  "shortName":"Test",
+  "version":"0.01",
+  "description": "Test",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"app.js","url":"app.js"}
+  ]
+}
